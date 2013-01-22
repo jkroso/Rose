@@ -1,0 +1,14 @@
+{
+  "name": "rose",
+  "repo": "jkroso/rose",
+  "description": "A client side router with enough brains to not piss you off",
+  "version": "0.1.0",
+  "keywords": ["client","router","events","location","path"],
+  "dependencies": {},
+  "main": "src/index.js",
+  "scripts": [
+	  "src/index.js"
+  ],
+  "styles":[],
+  "license": "MIT"
+}

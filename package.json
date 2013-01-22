@@ -1,0 +1,39 @@
+{
+  "name": "rose",
+  "version": "0.1.0",
+  "description": "A client side router with enough brains to not piss you off",
+  "main": "src/index.js",
+  "dependencies": {
+    "xregexp": "*",
+    "laissez-faire": "*",
+    "emitter": "http://github.com/jkroso/emitter-1/tarball/master",
+    "async-forEach": "http://github.com/jkroso/async-forEach/tarball/master",
+    "equals": "~0.1.0",
+    "path": "http://github.com/jkroso/path/tarball/master"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sourcegraph": "~0.4.1",
+    "bigfile": "~0.2.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jkroso/rose.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jkroso/rose/issues"
+  },
+  "keywords": [
+    "client",
+    "router",
+    "events",
+    "location",
+    "path"
+  ],
+  "author": "Jakeb Rosoman",
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+/build
+/components
+/node_modules
+/dist
+/test/built.js
+*.sublime-project
+*.sublime-workspace
